@@ -1,0 +1,18 @@
+﻿@model Zelda_db
+
+
+    <div class=" ="row">
+        <div class="col-3">
+                <div class="card">
+                 <ul>
+  		        @foreach (var appearnce in Model.data)
+                {
+                    @foreach (var monster1 in appearnce.appearances)
+                    {
+                        <li>@monster1</li> @*perhaps have the list as hyperlinks? This means opening up in a new page...*@
+                    }
+                }
+		        </ul>
+            </div>
+        </div>
+    </div>

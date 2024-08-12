@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+      header {
+        background-blend-mode: lighten;
+      }
+    ul.topnav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+      } 
+
+    ul.topnav li {float: left;}
+
+    ul.topnav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 2px 5px;
+  text-decoration: none;
+    }
+
+    ul.topnav li a:hover:not(.active) {background-color: #111;}
+
+    ul.topnav li a.active {background-color: #04AA6D;}
+
+    ul.topnav li.right {float: right;}
+
+    @media screen and (max-width: 600px) {
+  ul.topnav li.right, 
+  ul.topnav li {float: none;}
+    }
+    aside{
+        float: left;
+        padding-left: 5px;
+        margin-left: 5px;
+        scroll-padding-right: 5px;
+        width: 60%
+    }
+        
+    body {
+      background-color: rgb(28, 31, 29);  
+      font-family: Verdana;
+      color: white;
+      margin: 0;
+    }
+  img {
+            width: 50%;
+            height:30%;
+            object-fit: fill;
+        }
+        p{
+          text-indent: 10%;
+        }
+        .card {
+            background-color: rgb(rgb(2, 2, 2), green, blue);
+            color: white;
+        }
+        ul{
+            background-color: rgb(rgb(255, 255, 255));
+            color: rgb(255, 255, 255);
+        }
+        a:link {
+                color: rgb(246, 222, 222);
+                background-color: transparent;
+                font-style: underline;
+        }
+        .ex1 {
+  background-color: rgba(13, 13, 13, 0.58);
+  width: 100%;
+  height: 100%;
+  overflow-x: hidden;
+}    
+        </style>
+    <title>Home Page</title>
+</head>
+<body>
+  <header><h2 class="card-title">Home Page</h2></header>
+  <ul class="topnav">
+    <li><a class="active" href="AYhome.html">Home</a></li>
+    <li><a href="AYabout.html">Why tech?</a></li>
+    <li><a href="AYportfolio.html">Portfolio</a></li>
+  </ul>
+    <aside><img src="ayyme.jpg" class="card-img-bottom" alt="dis_me"></aside>
+    <main>
+      <p>My name is Alex Yowell. I am currently a Special Education teacher, soon to be software developer!</p>
+       <h3>Where Am I From?</h3>
+       <p>I am currently living in Kalamazoo MI. One thing I love about living here? The ease of access to the numerous, beautiful hiking trails .</p>
+       <p>I am orignally from St. Louis. Lived in Indianapolis, IN  for 2 years. Fun fact: the man in the mural is Slaughter House 5 author Kurt Vonnegut, a native of Indy!</p>
+    </main>
+</body>
+ 
+  
+</html>

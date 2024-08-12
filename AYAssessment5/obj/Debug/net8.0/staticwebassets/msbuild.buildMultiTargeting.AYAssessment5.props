@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AYAssessment5.props" />
+</Project>

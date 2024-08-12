@@ -1,0 +1,74 @@
+//URL TO MODEL OFF OF: https://zelda.fanapis.com/api/monsters?name=Wallmaster <--//replace name
+
+Zelda_db
+
+//NO API KEY TO USE!
+(https://zelda.fanapis.com/api)
+//GITHUB LINK
+(https://github.com/deliton/zelda-api)
+
+//VV JSON Code originalVV
+{
+    "success": true,
+    "count": 1,
+    "data": [
+        {
+            "appearances": [
+                "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2b7",
+                "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2b8",
+                "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2ba",
+                "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2bc",
+                "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c0",
+                "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2b9",
+                "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c1",
+                "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c6",
+                "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c7",
+                "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2ce"
+            ],
+            "name": "Wallmaster",
+            "description": "Wallmasters, also known as Wall Masters, are recurring Enemies in The Legend of Zelda series. Wallmasters go unnamed in Link's Awakening for Nintendo Switch. ",
+            "id": "5f6d1715a837149f8b47a328"
+        }
+    ]
+}
+
+//VV JSON -> C# FOR MODEL CLASSES VV
+    public class MonsterData
+    {
+        public List<string> appearances { get; set; }
+        public string name { get; set; }
+        public string description { get; set; }
+        public string id { get; set; }
+    }
+
+    public class Zelda_db
+    {
+        public bool success { get; set; }
+        public int count { get; set; }
+        public List<Datum> data { get; set; }
+    }
+
+@model List<MonsterData>
+@if(Model.Count == 0)
+{
+    <h2>No monsters found, sorry!</h2>
+}
+else
+{
+    <div class=" ="row"> 
+    @foreach(var monster in Model)
+    {
+        <div class="col-3">
+                <div class="card">
+                 <ul>
+  		<li>@monster.appearances</li>
+		</ul> 
+                <div class="card body">
+                    <h3 class="card-title">@monster.name</h3>
+                </div>
+            </div>
+        </div>
+    }
+    </div>
+}
+

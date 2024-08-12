@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\learn2code\\HTML n such\\ZeldaMonsters\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4967711E-DD24-4B08-A1A8-519D924E3942}|ZeldaMonsters.csproj|c:\\learn2code\\html n such\\zeldamonsters\\views\\home\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4967711E-DD24-4B08-A1A8-519D924E3942}|ZeldaMonsters.csproj|solutionrelative:views\\home\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4967711E-DD24-4B08-A1A8-519D924E3942}|ZeldaMonsters.csproj|c:\\learn2code\\html n such\\zeldamonsters\\services\\zelda_dbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4967711E-DD24-4B08-A1A8-519D924E3942}|ZeldaMonsters.csproj|solutionrelative:services\\zelda_dbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4967711E-DD24-4B08-A1A8-519D924E3942}|ZeldaMonsters.csproj|c:\\learn2code\\html n such\\zeldamonsters\\models\\zelda_db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4967711E-DD24-4B08-A1A8-519D924E3942}|ZeldaMonsters.csproj|solutionrelative:models\\zelda_db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4967711E-DD24-4B08-A1A8-519D924E3942}|ZeldaMonsters.csproj|c:\\learn2code\\html n such\\zeldamonsters\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4967711E-DD24-4B08-A1A8-519D924E3942}|ZeldaMonsters.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4967711E-DD24-4B08-A1A8-519D924E3942}|ZeldaMonsters.csproj|c:\\learn2code\\html n such\\zeldamonsters\\models\\monsterdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4967711E-DD24-4B08-A1A8-519D924E3942}|ZeldaMonsters.csproj|solutionrelative:models\\monsterdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4967711E-DD24-4B08-A1A8-519D924E3942}|ZeldaMonsters.csproj|c:\\learn2code\\html n such\\zeldamonsters\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4967711E-DD24-4B08-A1A8-519D924E3942}|ZeldaMonsters.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4967711E-DD24-4B08-A1A8-519D924E3942}|ZeldaMonsters.csproj|c:\\learn2code\\html n such\\zeldamonsters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4967711E-DD24-4B08-A1A8-519D924E3942}|ZeldaMonsters.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Zelda_db.cs",
+              "DocumentMoniker": "C:\\learn2code\\HTML n such\\ZeldaMonsters\\Models\\Zelda_db.cs",
+              "RelativeDocumentMoniker": "Models\\Zelda_db.cs",
+              "ToolTip": "C:\\learn2code\\HTML n such\\ZeldaMonsters\\Models\\Zelda_db.cs",
+              "RelativeToolTip": "Models\\Zelda_db.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T15:36:04.607Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "C:\\learn2code\\HTML n such\\ZeldaMonsters\\Views\\Home\\Search.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Search.cshtml",
+              "ToolTip": "C:\\learn2code\\HTML n such\\ZeldaMonsters\\Views\\Home\\Search.cshtml",
+              "RelativeToolTip": "Views\\Home\\Search.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAB4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T22:13:54.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\learn2code\\HTML n such\\ZeldaMonsters\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\learn2code\\HTML n such\\ZeldaMonsters\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T16:18:15.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\learn2code\\HTML n such\\ZeldaMonsters\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\learn2code\\HTML n such\\ZeldaMonsters\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T16:03:53.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\learn2code\\HTML n such\\ZeldaMonsters\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\learn2code\\HTML n such\\ZeldaMonsters\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T15:32:42.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Zelda_dbService.cs",
+              "DocumentMoniker": "C:\\learn2code\\HTML n such\\ZeldaMonsters\\Services\\Zelda_dbService.cs",
+              "RelativeDocumentMoniker": "Services\\Zelda_dbService.cs",
+              "ToolTip": "C:\\learn2code\\HTML n such\\ZeldaMonsters\\Services\\Zelda_dbService.cs",
+              "RelativeToolTip": "Services\\Zelda_dbService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T15:51:39.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MonsterData.cs",
+              "DocumentMoniker": "C:\\learn2code\\HTML n such\\ZeldaMonsters\\Models\\MonsterData.cs",
+              "RelativeDocumentMoniker": "Models\\MonsterData.cs",
+              "ToolTip": "C:\\learn2code\\HTML n such\\ZeldaMonsters\\Models\\MonsterData.cs",
+              "RelativeToolTip": "Models\\MonsterData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T15:35:12.12Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

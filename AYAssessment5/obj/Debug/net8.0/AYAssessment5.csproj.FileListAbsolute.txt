@@ -1,0 +1,61 @@
+C:\learn2code\Assessments\assessment-5-Ayow9\AYAssessment5\bin\Debug\net8.0\appsettings.Development.json
+C:\learn2code\Assessments\assessment-5-Ayow9\AYAssessment5\bin\Debug\net8.0\appsettings.json
+C:\learn2code\Assessments\assessment-5-Ayow9\AYAssessment5\bin\Debug\net8.0\AYAssessment5.staticwebassets.runtime.json
+C:\learn2code\Assessments\assessment-5-Ayow9\AYAssessment5\bin\Debug\net8.0\AYAssessment5.exe
+C:\learn2code\Assessments\assessment-5-Ayow9\AYAssessment5\bin\Debug\net8.0\AYAssessment5.deps.json
+C:\learn2code\Assessments\assessment-5-Ayow9\AYAssessment5\bin\Debug\net8.0\AYAssessment5.runtimeconfig.json
+C:\learn2code\Assessments\assessment-5-Ayow9\AYAssessment5\bin\Debug\net8.0\AYAssessment5.dll
+C:\learn2code\Assessments\assessment-5-Ayow9\AYAssessment5\bin\Debug\net8.0\AYAssessment5.pdb
+C:\learn2code\Assessments\assessment-5-Ayow9\AYAssessment5\obj\Debug\net8.0\AYAssessment5.GeneratedMSBuildEditorConfig.editorconfig
+C:\learn2code\Assessments\assessment-5-Ayow9\AYAssessment5\obj\Debug\net8.0\AYAssessment5.AssemblyInfoInputs.cache
+C:\learn2code\Assessments\assessment-5-Ayow9\AYAssessment5\obj\Debug\net8.0\AYAssessment5.AssemblyInfo.cs
+C:\learn2code\Assessments\assessment-5-Ayow9\AYAssessment5\obj\Debug\net8.0\AYAssessment5.csproj.CoreCompileInputs.cache
+C:\learn2code\Assessments\assessment-5-Ayow9\AYAssessment5\obj\Debug\net8.0\AYAssessment5.MvcApplicationPartsAssemblyInfo.cache
+C:\learn2code\Assessments\assessment-5-Ayow9\AYAssessment5\obj\Debug\net8.0\AYAssessment5.RazorAssemblyInfo.cache
+C:\learn2code\Assessments\assessment-5-Ayow9\AYAssessment5\obj\Debug\net8.0\AYAssessment5.RazorAssemblyInfo.cs
+C:\learn2code\Assessments\assessment-5-Ayow9\AYAssessment5\obj\Debug\net8.0\AYAssessment5.sourcelink.json
+C:\learn2code\Assessments\assessment-5-Ayow9\AYAssessment5\obj\Debug\net8.0\staticwebassets.build.json
+C:\learn2code\Assessments\assessment-5-Ayow9\AYAssessment5\obj\Debug\net8.0\staticwebassets.development.json
+C:\learn2code\Assessments\assessment-5-Ayow9\AYAssessment5\obj\Debug\net8.0\staticwebassets\msbuild.AYAssessment5.Microsoft.AspNetCore.StaticWebAssets.props
+C:\learn2code\Assessments\assessment-5-Ayow9\AYAssessment5\obj\Debug\net8.0\staticwebassets\msbuild.build.AYAssessment5.props
+C:\learn2code\Assessments\assessment-5-Ayow9\AYAssessment5\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AYAssessment5.props
+C:\learn2code\Assessments\assessment-5-Ayow9\AYAssessment5\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AYAssessment5.props
+C:\learn2code\Assessments\assessment-5-Ayow9\AYAssessment5\obj\Debug\net8.0\staticwebassets.pack.json
+C:\learn2code\Assessments\assessment-5-Ayow9\AYAssessment5\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\learn2code\Assessments\assessment-5-Ayow9\AYAssessment5\obj\Debug\net8.0\scopedcss\bundle\AYAssessment5.styles.css
+C:\learn2code\Assessments\assessment-5-Ayow9\AYAssessment5\obj\Debug\net8.0\scopedcss\projectbundle\AYAssessment5.bundle.scp.css
+C:\learn2code\Assessments\assessment-5-Ayow9\AYAssessment5\obj\Debug\net8.0\AYAssessment5.dll
+C:\learn2code\Assessments\assessment-5-Ayow9\AYAssessment5\obj\Debug\net8.0\refint\AYAssessment5.dll
+C:\learn2code\Assessments\assessment-5-Ayow9\AYAssessment5\obj\Debug\net8.0\AYAssessment5.pdb
+C:\learn2code\Assessments\assessment-5-Ayow9\AYAssessment5\obj\Debug\net8.0\AYAssessment5.genruntimeconfig.cache
+C:\learn2code\Assessments\assessment-5-Ayow9\AYAssessment5\obj\Debug\net8.0\ref\AYAssessment5.dll
+C:\learn2code\HTML n such\AYAssessment5\bin\Debug\net8.0\appsettings.Development.json
+C:\learn2code\HTML n such\AYAssessment5\bin\Debug\net8.0\appsettings.json
+C:\learn2code\HTML n such\AYAssessment5\bin\Debug\net8.0\AYAssessment5.staticwebassets.runtime.json
+C:\learn2code\HTML n such\AYAssessment5\bin\Debug\net8.0\AYAssessment5.exe
+C:\learn2code\HTML n such\AYAssessment5\bin\Debug\net8.0\AYAssessment5.deps.json
+C:\learn2code\HTML n such\AYAssessment5\bin\Debug\net8.0\AYAssessment5.runtimeconfig.json
+C:\learn2code\HTML n such\AYAssessment5\bin\Debug\net8.0\AYAssessment5.dll
+C:\learn2code\HTML n such\AYAssessment5\bin\Debug\net8.0\AYAssessment5.pdb
+C:\learn2code\HTML n such\AYAssessment5\obj\Debug\net8.0\AYAssessment5.GeneratedMSBuildEditorConfig.editorconfig
+C:\learn2code\HTML n such\AYAssessment5\obj\Debug\net8.0\AYAssessment5.AssemblyInfoInputs.cache
+C:\learn2code\HTML n such\AYAssessment5\obj\Debug\net8.0\AYAssessment5.AssemblyInfo.cs
+C:\learn2code\HTML n such\AYAssessment5\obj\Debug\net8.0\AYAssessment5.csproj.CoreCompileInputs.cache
+C:\learn2code\HTML n such\AYAssessment5\obj\Debug\net8.0\AYAssessment5.MvcApplicationPartsAssemblyInfo.cache
+C:\learn2code\HTML n such\AYAssessment5\obj\Debug\net8.0\AYAssessment5.RazorAssemblyInfo.cache
+C:\learn2code\HTML n such\AYAssessment5\obj\Debug\net8.0\AYAssessment5.RazorAssemblyInfo.cs
+C:\learn2code\HTML n such\AYAssessment5\obj\Debug\net8.0\staticwebassets.build.json
+C:\learn2code\HTML n such\AYAssessment5\obj\Debug\net8.0\staticwebassets.development.json
+C:\learn2code\HTML n such\AYAssessment5\obj\Debug\net8.0\staticwebassets\msbuild.AYAssessment5.Microsoft.AspNetCore.StaticWebAssets.props
+C:\learn2code\HTML n such\AYAssessment5\obj\Debug\net8.0\staticwebassets\msbuild.build.AYAssessment5.props
+C:\learn2code\HTML n such\AYAssessment5\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AYAssessment5.props
+C:\learn2code\HTML n such\AYAssessment5\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AYAssessment5.props
+C:\learn2code\HTML n such\AYAssessment5\obj\Debug\net8.0\staticwebassets.pack.json
+C:\learn2code\HTML n such\AYAssessment5\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\learn2code\HTML n such\AYAssessment5\obj\Debug\net8.0\scopedcss\bundle\AYAssessment5.styles.css
+C:\learn2code\HTML n such\AYAssessment5\obj\Debug\net8.0\scopedcss\projectbundle\AYAssessment5.bundle.scp.css
+C:\learn2code\HTML n such\AYAssessment5\obj\Debug\net8.0\AYAssessment5.dll
+C:\learn2code\HTML n such\AYAssessment5\obj\Debug\net8.0\refint\AYAssessment5.dll
+C:\learn2code\HTML n such\AYAssessment5\obj\Debug\net8.0\AYAssessment5.pdb
+C:\learn2code\HTML n such\AYAssessment5\obj\Debug\net8.0\AYAssessment5.genruntimeconfig.cache
+C:\learn2code\HTML n such\AYAssessment5\obj\Debug\net8.0\ref\AYAssessment5.dll

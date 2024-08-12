@@ -1,0 +1,29 @@
+ <div class="card" style="width: 35rem;">
+     <img src="ayyme.jpg" class="card-img-bottom" alt="dis_me">
+     <div class="card-body">
+         <h2>About Me</h2>
+         <p class>My name is Alex Yowell. I am currently a Special Education teacher, future software dev.</p>
+	 <h3>Where Am I From?</h3>
+	 <p class>From St. Louis MO. Currently lving in Kalamazoo MI. Loving the scenery here and the access to the many hiking trails availble.</p>
+     </div>
+ </div>
+
+    <h2>Ok cool. Why the switch up in careers?</h2>
+    <p>Because I want to make educational software and websites that are fun AND far more accesable than present. 
+        Kids do love to learn using technology, but we should make the tech a lot more open to making mistakes. To have fun, to make mistakes, and learn from them. 
+        In other words, make the edutech experience a great open sandbox. Just like tech...</p>
+ 
+TRY THIS OUT FOR THREE SECTIONS TO MAKE IT COOL!!
+
+<div class="card" style="width: 25rem;">
+  <img src="ayyme.jpg" class="card-img-bottom" alt="dis_me">
+  <div class="card-body">
+    <h5 class="card-title">About Me</h5>
+    <p class>My name is Alex Yowell. I am currently a Special Education teacher, future software dev.</p>
+	 <h3>Where Am I From?</h3>
+	 <p class>From St. Louis MO. Currently lving in Kalamazoo MI. Loving the scenery here and the access to the many hiking trails availble.</p>
+  <ul class="list-group list-group-flush">
+    <li class="list-group-item"><a href="#" class="AYabout.html;">Card link</a></li>
+    <li class="list-group-item"><a href="#" class="AYportfolio.html">Card link</a>/li>
+  </ul>
+</div>

@@ -1,0 +1,16 @@
+﻿@*
+The form should invoke the WELCOME action on submit
+*@
+
+@model Welcome
+<form asp-action="Welcome" method="post">
+    <div class="form group">
+        <label asp-for="Name">Name</label>
+        <input asp-for="Name" type="text" placeholder="Name?" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Password">Password</label>
+            <input type="password" asp-for="Password" placeholder="Guess the password?" />
+    </div>
+    <button type="submit">Submit</button>
+</form>
