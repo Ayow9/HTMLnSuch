@@ -28,3 +28,34 @@ C:\learn2code\HTML n such\ZeldaMonsters\obj\Debug\net8.0\refint\ZeldaMonsters.dl
 C:\learn2code\HTML n such\ZeldaMonsters\obj\Debug\net8.0\ZeldaMonsters.pdb
 C:\learn2code\HTML n such\ZeldaMonsters\obj\Debug\net8.0\ZeldaMonsters.genruntimeconfig.cache
 C:\learn2code\HTML n such\ZeldaMonsters\obj\Debug\net8.0\ref\ZeldaMonsters.dll
+C:\learn2code\HTMLnSuch\ZeldaMonsters\bin\Debug\net8.0\appsettings.Development.json
+C:\learn2code\HTMLnSuch\ZeldaMonsters\bin\Debug\net8.0\appsettings.json
+C:\learn2code\HTMLnSuch\ZeldaMonsters\bin\Debug\net8.0\ZeldaMonsters.staticwebassets.runtime.json
+C:\learn2code\HTMLnSuch\ZeldaMonsters\bin\Debug\net8.0\ZeldaMonsters.exe
+C:\learn2code\HTMLnSuch\ZeldaMonsters\bin\Debug\net8.0\ZeldaMonsters.deps.json
+C:\learn2code\HTMLnSuch\ZeldaMonsters\bin\Debug\net8.0\ZeldaMonsters.runtimeconfig.json
+C:\learn2code\HTMLnSuch\ZeldaMonsters\bin\Debug\net8.0\ZeldaMonsters.dll
+C:\learn2code\HTMLnSuch\ZeldaMonsters\bin\Debug\net8.0\ZeldaMonsters.pdb
+C:\learn2code\HTMLnSuch\ZeldaMonsters\obj\Debug\net8.0\ZeldaMonsters.GeneratedMSBuildEditorConfig.editorconfig
+C:\learn2code\HTMLnSuch\ZeldaMonsters\obj\Debug\net8.0\ZeldaMonsters.AssemblyInfoInputs.cache
+C:\learn2code\HTMLnSuch\ZeldaMonsters\obj\Debug\net8.0\ZeldaMonsters.AssemblyInfo.cs
+C:\learn2code\HTMLnSuch\ZeldaMonsters\obj\Debug\net8.0\ZeldaMonsters.csproj.CoreCompileInputs.cache
+C:\learn2code\HTMLnSuch\ZeldaMonsters\obj\Debug\net8.0\ZeldaMonsters.MvcApplicationPartsAssemblyInfo.cache
+C:\learn2code\HTMLnSuch\ZeldaMonsters\obj\Debug\net8.0\ZeldaMonsters.RazorAssemblyInfo.cache
+C:\learn2code\HTMLnSuch\ZeldaMonsters\obj\Debug\net8.0\ZeldaMonsters.RazorAssemblyInfo.cs
+C:\learn2code\HTMLnSuch\ZeldaMonsters\obj\Debug\net8.0\ZeldaMonsters.sourcelink.json
+C:\learn2code\HTMLnSuch\ZeldaMonsters\obj\Debug\net8.0\staticwebassets.build.json
+C:\learn2code\HTMLnSuch\ZeldaMonsters\obj\Debug\net8.0\staticwebassets.development.json
+C:\learn2code\HTMLnSuch\ZeldaMonsters\obj\Debug\net8.0\staticwebassets\msbuild.ZeldaMonsters.Microsoft.AspNetCore.StaticWebAssets.props
+C:\learn2code\HTMLnSuch\ZeldaMonsters\obj\Debug\net8.0\staticwebassets\msbuild.build.ZeldaMonsters.props
+C:\learn2code\HTMLnSuch\ZeldaMonsters\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ZeldaMonsters.props
+C:\learn2code\HTMLnSuch\ZeldaMonsters\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ZeldaMonsters.props
+C:\learn2code\HTMLnSuch\ZeldaMonsters\obj\Debug\net8.0\staticwebassets.pack.json
+C:\learn2code\HTMLnSuch\ZeldaMonsters\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\learn2code\HTMLnSuch\ZeldaMonsters\obj\Debug\net8.0\scopedcss\bundle\ZeldaMonsters.styles.css
+C:\learn2code\HTMLnSuch\ZeldaMonsters\obj\Debug\net8.0\scopedcss\projectbundle\ZeldaMonsters.bundle.scp.css
+C:\learn2code\HTMLnSuch\ZeldaMonsters\obj\Debug\net8.0\ZeldaMonsters.dll
+C:\learn2code\HTMLnSuch\ZeldaMonsters\obj\Debug\net8.0\refint\ZeldaMonsters.dll
+C:\learn2code\HTMLnSuch\ZeldaMonsters\obj\Debug\net8.0\ZeldaMonsters.pdb
+C:\learn2code\HTMLnSuch\ZeldaMonsters\obj\Debug\net8.0\ZeldaMonsters.genruntimeconfig.cache
+C:\learn2code\HTMLnSuch\ZeldaMonsters\obj\Debug\net8.0\ref\ZeldaMonsters.dll

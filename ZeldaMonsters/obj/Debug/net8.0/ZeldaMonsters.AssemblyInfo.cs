@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ZeldaMonsters")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4032f7c420ae7207e7e26497443143e48ec6f44")]
 [assembly: System.Reflection.AssemblyProductAttribute("ZeldaMonsters")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ZeldaMonsters")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
